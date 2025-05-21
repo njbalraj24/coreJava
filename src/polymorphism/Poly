@@ -1,0 +1,16 @@
+Polymorphism:
+ Polymorphism in Java is a concept by which we can perform a single action in different ways.
+ 
+Types of Polymorphism:
+There are two types of polymorphism in Java
+ Compile-time Polymorphism
+ Runtime Polymorphism.
+ 
+1) Compile-Time Polymorphism in Java:
+In Java, method overloading is used to achieve compile-time polymorphism. 
+A class can have numerous methods with the same name but distinct parameter lists thanks to method overloading. 
+The compiler uses the amount and kind of parameters provided to it during compilation to decide which method to call. 
+This choice is made during compilation, which is why it's called "compile-time polymorphism.
+
+2) Runtime Polymorphism in Java
+Runtime polymorphism is a process in which a call to an overridden method is resolved at runtime rather than compile-time.

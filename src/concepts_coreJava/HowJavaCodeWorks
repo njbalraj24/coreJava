@@ -1,0 +1,23 @@
+1. At compile time: the Java file is compiled by Java compiler and converts the Java code into bytecode.
+2. At runtime: 
+ Classloader: It is the subsystem of JVM that is used to load class files.
+ Bytecode Verifier: Checks the code fragments for illegal code that can violate access rights to objects.
+ Interpreter: Read bytecode stream then execute the instructions.
+ 
+Difference between JDK, JRE, and JVM:
+JVM:
+ JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machine because it doesn't physically exist.
+ It is a specification that provides a runtime environment in which Java bytecode can be executed. 
+ It can also run those programs that are written in other languages and compiled to Java bytecode.
+ The JVM performs the following main tasks: Loads code, Verifies code, Executes code, Provides runtime environment
+
+JRE:
+ JRE is an acronym for Java Runtime Environment.
+ It is used to provide the runtime environment. It physically exists.
+ It contains a set of libraries + other files that the JVM uses at runtime.
+ 
+JDK:
+ JDK is an acronym for Java Development Kit.
+ The Java Development Kit (JDK) is a software development environment that is used to develop Java applications
+ It contains JRE + development tools.
+ 

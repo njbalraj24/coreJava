@@ -1,0 +1,10 @@
+Upcasting:
+ If the reference variable of Parent class refers to the object of Child class, it is known as upcasting.
+ 
+class A{}  
+class B extends A{} 
+
+A a=new B();//upcasting 
+
+Downcasting:
+ When Subclass type refers to the object of Parent class, it is known as downcasting.

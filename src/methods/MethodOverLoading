@@ -1,0 +1,13 @@
+Method overloading 
+in Java is the feature that enables defining several methods in a class having the same name but with different parameters lists.
+
+There are two ways to overload the method in java:
+1. By changing number of arguments
+2. By changing the data type
+
+*** In Java, Method Overloading is not possible by changing the return type of the method only. ***
+
+Q) Why Method Overloading is not possible by changing the return type of method only?
+If two methods have the same name and parameter list but different return types, the compiler cannot determine which method to call 
+based solely on the return type.
+*** ambiguity occurs ***

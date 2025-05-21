@@ -1,0 +1,25 @@
+Class:
+  A class is a group of objects that have common properties. It is a template or blueprint from which objects are created. 
+  It is a logical entity. It can't be physical.
+  
+A Java class contains: Fields, Methods, Constructors, Blocks, Nested Class and Interface
+
+Object:
+ An object is a real-world entity that has state and behaviour. In other words, an object is a tangible thing that can be touch and feel,
+  like a car or chair, etc.
+  
+An object is an instance of a class. A class is a template or blueprint from which objects are created. So, an object is the 
+instance (result) of a class.
+
+Initializing an Object in Java:
+There are the following three ways to initialize an object in Java:
+
+ By Reference Variable
+ By Method
+ By Constructor
+ 
+Different ways to create an object in Java:
+1. By new Keyword
+ ClassName obj = new ClassName();
+ 
+2. By newInstance() Method

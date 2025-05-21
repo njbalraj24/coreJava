@@ -1,0 +1,19 @@
+Java static keyword:
+The static keyword in Java is used for memory management mainly.
+The static can be:
+ Variable (also known as a class variable)
+ Method (also known as a class method)
+ Block
+ Nested class
+ 
+Characteristics of static Keyword:
+1. Access Without an Object: Since static members belong to the class, you can access them directly using the class name 
+   (ClassName.methodName()). No need to create an object.
+2. Main Method is Static: The main method in Java is static so that Java can run the program without creating an object first.
+3. Belongs to the Class, Not the Object
+
+Advantages of static Keyword:
+Saves Memory:
+Faster Access:
+Keeps Code Organized:
+Reduces Object Dependency:

@@ -1,0 +1,32 @@
+Method:
+In general, a method is a way to perform some task.
+Method in Java is a collection of instructions that performs a specific task. It provides the reusability of code.
+A method is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation.
+
+Why Methods (Key Characteristics)?
+ Reusability: Methods provides code reusability
+ Modularity: Methods help break down complex problems into smaller, manageable pieces.
+ Maintainability: With methods, updating and debugging code becomes easier since changes in one part of the program do not necessarily 
+  impact other parts.
+ Abstraction: Methods provide a way to encapsulate implementation details, exposing only the necessary parts to the users.
+ 
+Method Declaration:
+ The method declaration provides information about method attributes, such as visibility, return-type, name, and arguments.
+ It has six components that are known as method header.
+ Access Specifier: Public, Private, Protected, Default
+ Return Type: Return type is a data type that the method returns.
+ Method Name: It is a unique name that is used to define the name of a method.
+ Parameter List: It is the list of parameters separated by a comma and enclosed in the pair of parentheses.
+ Method Body: It is a part of the method declaration. It contains all the actions to be performed.
+ 
+Types of Method:
+Predefined Method: 
+ method that is already defined in the Java class libraries.
+ Some pre-defined methods are length(), equals(), compareTo() etc.
+ 
+User-defined Method
+ The method written by the user or programmer is known as a user-defined method.
+ 
+Static Method:
+ A method that has static keyword is known as static method.
+ 

@@ -1,0 +1,26 @@
+Array:
+ Java array is an object which contains elements of a similar data type. 
+ The elements of an array are stored in a contiguous memory location. 
+ It is a data structure where we store similar elements. 
+ We can store only a fixed set of elements in a Java array.
+ 
+Array in Java is index-based, the first element of the array is stored at the 0th index, 2nd element is stored on 1st index and so on.
+
+Advantages
+ Code Optimization: It makes the code optimized, we can retrieve or sort the data efficiently.
+ Random access: We can get any data located at an index position.
+
+Disadvantages
+ Size Limit: Arrays have a fixed size and do not grow dynamically at runtime.
+ 
+Types of Array in java
+There are two types of array.
+
+ Single Dimensional Array: A single-dimensional array in Java is a linear collection of elements of the same data type.
+ Multidimensional Array: A multidimensional array in Java is an array of arrays where each element can be an array itself. 
+                         It is useful for storing data in row and column format.
+                         
+Length of Array:
+ int[] num = new int[10];     
+ //length is an Array attribute that determines the array length     
+ int arrayLength=num.length; 

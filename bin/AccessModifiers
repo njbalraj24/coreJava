@@ -1,0 +1,23 @@
+Important Points to Remember
+1. public
+
+Accessible from anywhere (inside/outside the package).
+Has the widest accessibility.
+Used for methods and classes that need to be globally accessible.
+2. private
+
+Strictly the most restrictive modifier.
+Limits access only to within the same class.
+Essential for encapsulation and protecting sensitive data.
+Not accessible outside the class, even in the same package.
+Private constructor prevents object creation outside the class.
+3. protected
+
+Accessible within the same package.
+Accessible outside the package, but only through inheritance.
+More accessible than the default, but more restrictive than the public.
+4. default
+
+When no modifier is specified.
+Limited access only to other classes within the same package.
+Cannot be accessed outside the package, even by subclasses.

@@ -1,0 +1,13 @@
+Operators are an essential part of any programming language. 
+In Java, operator is a symbol that is used to perform operations.
+
+There are mainly eight types of operators in Java:
+
+Unary Operator
+Arithmetic Operator
+Relational Operator
+Ternary Operator
+Assignment Operator
+Bitwise Operator
+Logical Operator
+Shift Operator

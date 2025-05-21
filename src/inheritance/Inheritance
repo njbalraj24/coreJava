@@ -1,0 +1,29 @@
+Inheritance:
+ Is a mechanism in which one object acquires all the properties and behaviors of a parent object. 
+ It is an important part of OOPs (Object Oriented programming system).
+ 
+Why use inheritance?
+ For Method Overriding.
+ For Code Reusability.
+ 
+Parent Class: Super Class, base class
+Child Class: Sub Class, derived class, extended class.
+
+extends: 
+It keyword indicates that we are making a new class that derives from an existing class. 
+The meaning of "extends" is to increase the functionality.
+
+Types of Inheritance in Java
+Single Inheritance: When a class inherits another class, it is known as a single inheritance.
+
+Multilevel Inheritance: When there is a chain of inheritance, it is known as multilevel inheritance. 
+
+Hierarchical Inheritance: When two or more classes inherits a single class, it is known as hierarchical inheritance.
+
+*** multiple and hybrid inheritance is supported through interface only ***
+
+Advantages of Inheritance:
+Code Reusability
+Hierarchical Organization
+Polymorphism
+Easier Maintenance

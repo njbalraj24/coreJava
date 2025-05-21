@@ -1,0 +1,12 @@
+Final Keyword:
+The final keyword in Java is used to restrict the user. It is also known as a non-access modifier. We can use the final keyword with:
+ 
+ Variable: When a variable is declared as final, it is known as a final variable. Its value cannot be changed once initialized.
+ Method: A method declared as final is known as a final method. Subclasses cannot override the final method.
+ Class: A class declared with the final keyword is known as a final class. Note that the final class cannot be inherited.
+ Parameter:
+ 
+Advantages of the final Keyword:
+ Security
+ Immutability
+ Thread Safety

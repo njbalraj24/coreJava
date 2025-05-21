@@ -1,0 +1,14 @@
+Abstraction:
+ Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+ 
+Ways to achieve Abstraction:
+There are two ways to achieve abstraction in Java:
+ Using Abstract Class (0 to 100%)
+ Using Interface (100%)
+ 
+Abstract Class in Java:
+ A class that is declared with the abstract keyword is known as an abstract class in Java. 
+ It can have abstract and non-abstract methods (method with the body).
+
+Abstract Method in Java:
+ A method which is declared as abstract and does not have implementation is known as an abstract method.
