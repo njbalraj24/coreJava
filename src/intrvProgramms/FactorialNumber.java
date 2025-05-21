@@ -1,5 +1,8 @@
 package intrvProgramms;
 
+//The factorial of a number is the product of all positive integers from 1 up to that number. For example, 
+//5! (5 factorial) is 5 * 4 * 3 * 2 * 1 = 120
+
 public class FactorialNumber 
 {    
     public static void main(String[] args) 
