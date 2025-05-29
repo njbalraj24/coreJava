@@ -1,0 +1,7 @@
+Stack:
+ The stack is a linear data structure that is used to store the collection of objects. 
+ It is based on Last-In-First-Out (LIFO).
+ 
+The stack data structure has the two most important operations that are push and pop. 
+The push operation inserts an element into the stack and pop operation removes an element from the top of the stack
+

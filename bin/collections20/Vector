@@ -1,0 +1,7 @@
+Vector:
+ Vector is like the dynamic array which can grow or shrink its size. 
+ Unlike array, we can store n-number of elements in it as there is no size limit.
+ 
+It is similar to the ArrayList, but with two differences-
+ Vector is synchronized.
+ Java Vector contains many legacy methods that are not the part of a collections framework.

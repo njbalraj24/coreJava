@@ -1,0 +1,22 @@
+Map:
+ The map interface in Java is a structure that holds a set of key-value pairs where each key is unique and points to one value only.
+ It is a component of the java.util package and is being widely used in Java programming to structure and get data in an ordered manner. 
+ A Map is useful if you have to search, update or delete elements on the basis of a key.
+ 
+Why Java Map Interface?
+ Efficient Data Retrieval
+ No Duplicate Keys
+ 
+HashMap:
+ HashMap is an important data structure in Java which implements the Map interface. 
+ In this way, it provides a scheme for storing of key-value pairs.
+ 
+LinkedHashMap:
+ LinkedHashMap is a class in Java that extends HashMap and implements the Map interface.
+ LinkedHashMap has one of the special features of its keeping a doubly linked list of its entries, which enables you to go through the entries 
+in either insertion or access order
+
+TreeHashMap:
+ TreeMap in Java is a sorted map implementation that stores key-value pairing in a Red-Black tree structure.
+ 
+Difference Between HashSet and HashMap

@@ -1,0 +1,5 @@
+append(String s) -- It is used to append the specified string to this string.
+insert(int offset, String s) -- It is used to insert the specified string into this string at the specified position.
+replace(int startIndex, int endIndex, String str) -- It is used to replace the string from the specified startIndex and endIndex.
+delete(int startIndex, int endIndex) -- It is used to delete the string from the specified startIndex and endIndex.
+reverse() -- is used to reverse the string.

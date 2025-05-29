@@ -1,0 +1,5 @@
+Queue:
+ Queue interface is designed to handle elements in a specific sequence, typically in a First-In-First-Out (FIFO) manner.
+ 
+PriorityQueue Class:
+ PriorityQueue is also class that is defined in the collection framework that gives us a way for processing the objects on the basis of priority.

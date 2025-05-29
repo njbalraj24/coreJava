@@ -1,0 +1,5 @@
+Iterator Interface Methods:
+ hasNext()
+ next()
+ remove()
+ forEachRemaining()

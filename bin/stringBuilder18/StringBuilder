@@ -1,0 +1,4 @@
+public StringBuilder append(String s) --> It is used to append the specified string with this string.
+public StringBuilder reverse() --> It is used to reverse the string.
+public int length() --> It is used to return the length of the string i.e. total number of characters.
+

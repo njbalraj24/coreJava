@@ -1,0 +1,11 @@
+Deque:
+ It is the subtype of the Queue interface. 
+ Deque, short for double-ended queue. 
+ The Deque supports the addition as well as the removal of elements from both ends of the data structure.
+ 
+ArrayDeque Class:
+ Unlike Queue, we can add or remove elements from both sides.
+ Null elements are not allowed in the ArrayDeque.
+ ArrayDeque is not thread safe, in the absence of external synchronization.
+ ArrayDeque has no capacity restrictions.
+ ArrayDeque is faster than LinkedList and Stack.

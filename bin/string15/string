@@ -1,0 +1,44 @@
+In Java, string is basically an object that represents sequence of char values. 
+An array of characters works as a string in Java.
+
+Java String class provides a lot of methods to perform operations on strings such as compare(), concat(), equals(), split(), length(), 
+replace(), compareTo(), intern(), substring() etc
+
+There are two ways to create String object:
+1. By string literal --> String s="welcome";  
+2. By new keyword --> String s=new String("Welcome");
+
+String:
+ the String class encapsulates a series of characters. 
+ Once instantiated, a String object's content is fixed and cannot be modified.
+ 
+StringBuffer:
+ StringBuffer represents a mutable sequence of characters that ensures thread safety, 
+ making it suitable for scenarios involving multiple threads that modify a character sequence.
+ It includes various string manipulation capabilities, including the ability to insert, delete, and append characters.
+ 
+StringBuilder:
+ StringBuilder shares similarities with StringBuffer by being a mutable character sequence.
+ The crucial distinction lies in StringBuilder not being synchronized, rendering it not suitable for thread-safe operations.
+ 
+Immutable String in Java:
+ In Java, strings are immutable. It means that its value cannot be changed once a String object is created.
+ If any operation appears to modify a String, what happens is the creation of a new String object.
+ he original string remains unchanged.
+ This immutable characteristic of strings in Java has several implications for performance, security, and functionality.
+ 
+Why String objects are immutable in Java?
+As Java uses the concept of String literal. Suppose there are 5 reference variables, all refer to one object "Sachin". 
+If one reference variable changes the value of the object, it will be affected by all the reference variables. 
+That is why String objects are immutable in Java.
+
+There are three ways to compare String in Java:
+By Using equals() Method
+By Using == Operator
+By compareTo() Method
+Using startsWith() and endsWith() Method
+
+String Concatenation in Java:
+ Using "+" (String concatenation) Operator
+ Using String.concat() Method
+ Using String.join() Method

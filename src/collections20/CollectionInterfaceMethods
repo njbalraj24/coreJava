@@ -1,0 +1,8 @@
+CollectionInterfaceMethods:
+
+add() -- This method returns a Boolean value true if it inserts the specified element in this collection.
+clear() -- It removes all the elements automatically from this collection.
+contains() -- It returns a Boolean value true if this queue contains the specified element.
+equals() -- This method returns a boolean value true if the specified object is equal with this collection.
+remove() -- It removes the specified element from this queue, if it is present in the collection.
+size() -- It returns the total number of the elements in this collection.
